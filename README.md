@@ -15,7 +15,7 @@ Since the < div > element is not a semantic element, we will replace all div tag
 
 In the "content" < section >,
 * Add an id before the "search-engine-optimization" class
-* In the same section, add alt attributes after all the <img src=...> Write a quick description of the <image>
+* In the same section, add alt attributes after all the < img src=... > Write a quick description of the <image>
 
 In the "benefits" < section >, change the < section > tag to < aside >
 
