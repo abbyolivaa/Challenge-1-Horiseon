@@ -3,12 +3,12 @@
 ## Description
 This project exercises the addition and use of semantic HTML elements, structured and organized code, alt attributes with images, headings in sequential order.
 
-Change the <title> from "website" to "Horiseon"
+Change the < title > from "website" to "Horiseon"
 
-Change the <div class: header> to <header>
+Change the < div class: header > to < header >
     In CSS: make sure to change all ".header" selectors to "header" now that it is no longer a class selector
 
-Change the <div> with the unordered list below the <h1> to <nav>
+Change the <div> with the unordered list below the < h1 > to < nav >
     In CSS: Change the "div" on lines 25, 27, and 29 to "nav"
 
 Since the <div> element is not a semantic element, we will replace all div tags to <section> tags.
